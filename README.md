@@ -11,3 +11,5 @@ Vedremo brevemente aspetti quali :
 - configurazione del progetto
 - quality assurance
 - pubblicazione artefatti
+
+![Espresso Logo](src/main/docs/img/espresso50.png "Espresso Logo")
